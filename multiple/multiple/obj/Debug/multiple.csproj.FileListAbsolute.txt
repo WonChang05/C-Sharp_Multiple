@@ -1,0 +1,7 @@
+D:\Users\Won\Desktop\作品彙整\multiple\multiple\bin\Debug\multiple.exe.config
+D:\Users\Won\Desktop\作品彙整\multiple\multiple\bin\Debug\multiple.exe
+D:\Users\Won\Desktop\作品彙整\multiple\multiple\bin\Debug\multiple.pdb
+D:\Users\Won\Desktop\作品彙整\multiple\multiple\obj\Debug\multiple.csprojAssemblyReference.cache
+D:\Users\Won\Desktop\作品彙整\multiple\multiple\obj\Debug\multiple.csproj.CoreCompileInputs.cache
+D:\Users\Won\Desktop\作品彙整\multiple\multiple\obj\Debug\multiple.exe
+D:\Users\Won\Desktop\作品彙整\multiple\multiple\obj\Debug\multiple.pdb
